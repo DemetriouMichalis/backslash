@@ -1,0 +1,6832 @@
+{
+	"_declaration": {
+		"_attributes": {
+			"version": "1.0",
+			"encoding": "UTF-8",
+			"standalone": "yes"
+		}
+	},
+	"air_quality": {
+		"copyright": {
+			"copyright": {
+				"_text": "The air quality service was developed by the Mobile Computing Center, European University Cyprus 7/2016"
+			}
+		},
+		"stations": {
+			"station": [
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "1.6435460000000002"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "280.79"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "992.61"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "67.18"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "25.53"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "9.563087"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "21.527"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "26"
+					},
+					"pollutant_value": {
+						"_text": "11.276"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "12.084421"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "-0.42607999999999996"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "45"
+					},
+					"pollutant_value": {
+						"_text": "0.136374"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "46"
+					},
+					"pollutant_value": {
+						"_text": "0.71621"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "47"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "48"
+					},
+					"pollutant_value": {
+						"_text": "0.251598"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "49"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "96.23880000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "239.784"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "1"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "1.87"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.15192246950294"
+					},
+					"station_longitude": {
+						"_text": "33.347919957077806"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.17458000000000004"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "273.18"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "990.1"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "61.9"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "25.4"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "6.90593"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "7.17375"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "1.1184599999999998"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "102.52305000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "137.352"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "2.56"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.09976000000000002"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "257.27"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "990"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "64.5"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "2"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "22.6"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Nicosia - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λευκωσία - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "35.1269444"
+					},
+					"station_longitude": {
+						"_text": "33.33166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "5.52421"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "110.31"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "1010.1"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "49.4"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "25.2"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "32.406220000000005"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "38.39"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "40.86168"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "0.39944999999999997"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "54.962250000000004"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "295.7724"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "0.13"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "4.015340000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "5.42"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "1009.9"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "48.3"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "22.9"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "40.40256"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "31.34"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "46.56242"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "3"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "0.90542"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.6861111"
+					},
+					"station_longitude": {
+						"_text": "33.03555559999995"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "4"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "2.70599"
+					},
+					"date_time": {
+						"_text": "2017-06-28 08:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.6816667"
+					},
+					"station_longitude": {
+						"_text": "33.017777799999976"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "4"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "16.853530000000003"
+					},
+					"date_time": {
+						"_text": "2017-06-28 08:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.6816667"
+					},
+					"station_longitude": {
+						"_text": "33.017777799999976"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "4"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "21.00474"
+					},
+					"date_time": {
+						"_text": "2017-06-28 08:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.6816667"
+					},
+					"station_longitude": {
+						"_text": "33.017777799999976"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "4"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "86.3436"
+					},
+					"date_time": {
+						"_text": "2017-06-28 08:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.6816667"
+					},
+					"station_longitude": {
+						"_text": "33.017777799999976"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "4"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "46.6764"
+					},
+					"date_time": {
+						"_text": "2017-06-28 08:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.6816667"
+					},
+					"station_longitude": {
+						"_text": "33.017777799999976"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "4"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "6.77121"
+					},
+					"date_time": {
+						"_text": "2017-06-28 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Limassol - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λεμεσός - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.6816667"
+					},
+					"station_longitude": {
+						"_text": "33.017777799999976"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "1.106089"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "254.49"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "1011.7"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "48.09"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "25.94"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "9.677867"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "31.83"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "26"
+					},
+					"pollutant_value": {
+						"_text": "16.505"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "11.374698"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "2.663"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "45"
+					},
+					"pollutant_value": {
+						"_text": "0.55199"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "46"
+					},
+					"pollutant_value": {
+						"_text": "1.63924"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "47"
+					},
+					"pollutant_value": {
+						"_text": "0.057381999999999996"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "48"
+					},
+					"pollutant_value": {
+						"_text": "0.70624"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "49"
+					},
+					"pollutant_value": {
+						"_text": "0.079452"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "95.355015"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "312.3012"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "5"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "1.52"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.9166667"
+					},
+					"station_longitude": {
+						"_text": "33.627500000000055"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "6"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "1.17218"
+					},
+					"date_time": {
+						"_text": "2016-11-18 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.9136111"
+					},
+					"station_longitude": {
+						"_text": "33.61583329999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "6"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "12.12842"
+					},
+					"date_time": {
+						"_text": "2016-11-18 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.9136111"
+					},
+					"station_longitude": {
+						"_text": "33.61583329999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "6"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "13.92664"
+					},
+					"date_time": {
+						"_text": "2016-11-18 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.9136111"
+					},
+					"station_longitude": {
+						"_text": "33.61583329999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "6"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "3.22223"
+					},
+					"date_time": {
+						"_text": "2016-11-18 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.9136111"
+					},
+					"station_longitude": {
+						"_text": "33.61583329999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "6"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "89.92662"
+					},
+					"date_time": {
+						"_text": "2016-11-18 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.9136111"
+					},
+					"station_longitude": {
+						"_text": "33.61583329999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "6"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "323.92956"
+					},
+					"date_time": {
+						"_text": "2016-11-18 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Larnaca - Residential Station"
+					},
+					"station_name_gr": {
+						"_text": "Λάρνακα - Οικιστικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Urban"
+					},
+					"station_type_gr": {
+						"_text": "Οικιστικός"
+					},
+					"station_latitude": {
+						"_text": "34.9136111"
+					},
+					"station_longitude": {
+						"_text": "33.61583329999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "1.3717"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "12.45363"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "36.53"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "14.5388"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "3.9945"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "45"
+					},
+					"pollutant_value": {
+						"_text": "0.42211"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "72.59805"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "353.3904"
+					},
+					"date_time": {
+						"_text": "2016-02-12 09:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "7"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "2.14484"
+					},
+					"date_time": {
+						"_text": "2016-02-12 08:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.7752778"
+					},
+					"station_longitude": {
+						"_text": "32.42194440000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "1.17218"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "268.62"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "1011.5"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "55.24"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "29.37"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "5.49031"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "16.6"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "26"
+					},
+					"pollutant_value": {
+						"_text": "11.68"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "7.288530000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "0.31955999999999996"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "45"
+					},
+					"pollutant_value": {
+						"_text": "0.379899"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "46"
+					},
+					"pollutant_value": {
+						"_text": "0.31789"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "47"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "48"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "49"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "81.25635"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "8"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "1.07"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Zygi - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Ζύγι - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.7294444"
+					},
+					"station_longitude": {
+						"_text": "33.33749999999998"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.11223000000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "236.34"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "952.64"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "46.93"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "21.19"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "18"
+					},
+					"pollutant_value": {
+						"_text": "145.21"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "0.89911"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "19.51"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "26"
+					},
+					"pollutant_value": {
+						"_text": "15.908"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "1.07128"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "1.5445399999999998"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "45"
+					},
+					"pollutant_value": {
+						"_text": "0.2383298"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "46"
+					},
+					"pollutant_value": {
+						"_text": "0.077749"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "47"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "48"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "49"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "114.65265000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "136048.32"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "9"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "0.15"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Ayia Marina Xyliatou - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Αγία Μαρίνα Ξυλιάτου - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "35.0380556"
+					},
+					"station_longitude": {
+						"_text": "33.05777779999994"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.06235000000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "90.3"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "818.9"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "57.6"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "14.2"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "18"
+					},
+					"pollutant_value": {
+						"_text": "224"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "1.3008400000000002"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "1.39649"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "116.08905"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "10"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "3.03"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Troodos - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Τρόοδος - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.918964669437464"
+					},
+					"station_longitude": {
+						"_text": "32.882763671874955"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "11"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.10974"
+					},
+					"date_time": {
+						"_text": "2017-03-08 10:00:00"
+					},
+					"station_name_en": {
+						"_text": "Cavo Greco - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Κάβο Γκρέκο - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9616667"
+					},
+					"station_longitude": {
+						"_text": "34.08166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "11"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "3.123929"
+					},
+					"date_time": {
+						"_text": "2017-03-08 10:00:00"
+					},
+					"station_name_en": {
+						"_text": "Cavo Greco - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Κάβο Γκρέκο - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9616667"
+					},
+					"station_longitude": {
+						"_text": "34.08166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "11"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "3.29227"
+					},
+					"date_time": {
+						"_text": "2017-03-08 10:00:00"
+					},
+					"station_name_en": {
+						"_text": "Cavo Greco - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Κάβο Γκρέκο - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9616667"
+					},
+					"station_longitude": {
+						"_text": "34.08166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "11"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "99.05175"
+					},
+					"date_time": {
+						"_text": "2017-03-08 10:00:00"
+					},
+					"station_name_en": {
+						"_text": "Cavo Greco - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Κάβο Γκρέκο - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9616667"
+					},
+					"station_longitude": {
+						"_text": "34.08166670000003"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "12"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "91.4907"
+					},
+					"date_time": {
+						"_text": "2017-01-10 22:00:00"
+					},
+					"station_name_en": {
+						"_text": "Inia - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Ίνεια - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9622222"
+					},
+					"station_longitude": {
+						"_text": "32.37694439999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "12"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "90.36751"
+					},
+					"date_time": {
+						"_text": "2017-01-10 21:00:00"
+					},
+					"station_name_en": {
+						"_text": "Inia - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Ίνεια - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9622222"
+					},
+					"station_longitude": {
+						"_text": "32.37694439999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "12"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "89.99644"
+					},
+					"date_time": {
+						"_text": "2017-01-10 20:00:00"
+					},
+					"station_name_en": {
+						"_text": "Inia - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Ίνεια - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9622222"
+					},
+					"station_longitude": {
+						"_text": "32.37694439999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "12"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "91.46477"
+					},
+					"date_time": {
+						"_text": "2017-01-10 19:00:00"
+					},
+					"station_name_en": {
+						"_text": "Inia - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Ίνεια - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9622222"
+					},
+					"station_longitude": {
+						"_text": "32.37694439999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "12"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "92.50416"
+					},
+					"date_time": {
+						"_text": "2017-01-10 18:00:00"
+					},
+					"station_name_en": {
+						"_text": "Inia - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Ίνεια - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9622222"
+					},
+					"station_longitude": {
+						"_text": "32.37694439999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "12"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "91.17549"
+					},
+					"date_time": {
+						"_text": "2017-01-10 17:00:00"
+					},
+					"station_name_en": {
+						"_text": "Inia - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Ίνεια - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.9622222"
+					},
+					"station_longitude": {
+						"_text": "32.37694439999996"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "13"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.12"
+					},
+					"date_time": {
+						"_text": "2016-02-02 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Stravrovouni - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Σταυροβούνι - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.88334727368627"
+					},
+					"station_longitude": {
+						"_text": "33.43788146972656"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "13"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "1.964651"
+					},
+					"date_time": {
+						"_text": "2016-02-02 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Stravrovouni - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Σταυροβούνι - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.88334727368627"
+					},
+					"station_longitude": {
+						"_text": "33.43788146972656"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "13"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "2.14493"
+					},
+					"date_time": {
+						"_text": "2016-02-02 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Stravrovouni - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Σταυροβούνι - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.88334727368627"
+					},
+					"station_longitude": {
+						"_text": "33.43788146972656"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "13"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "81.73721"
+					},
+					"date_time": {
+						"_text": "2016-02-02 14:00:00"
+					},
+					"station_name_en": {
+						"_text": "Stravrovouni - Background Station"
+					},
+					"station_name_gr": {
+						"_text": "Σταυροβούνι - Σταθμός Υποβάθρου"
+					},
+					"station_type_en": {
+						"_text": "Rural"
+					},
+					"station_type_gr": {
+						"_text": "Αγροτικός"
+					},
+					"station_latitude": {
+						"_text": "34.88334727368627"
+					},
+					"station_longitude": {
+						"_text": "33.43788146972656"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "1.247"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "229.42"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "1001.7"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "39.9"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "30.4"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "4.686850000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "6.599850000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "3.7015699999999994"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "45"
+					},
+					"pollutant_value": {
+						"_text": "0.06494"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "46"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "47"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "48"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "49"
+					},
+					"pollutant_value": {
+						"_text": "0"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "111.7998"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "60.8772"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "14"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "5.65"
+					},
+					"date_time": {
+						"_text": "2018-09-14 12:00:00"
+					},
+					"station_name_en": {
+						"_text": "Mari - Industrial Station"
+					},
+					"station_name_gr": {
+						"_text": "Μαρί - Βιομηχανικός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Industrial"
+					},
+					"station_type_gr": {
+						"_text": "Βιομηχανικός"
+					},
+					"station_latitude": {
+						"_text": "34.74015413889849"
+					},
+					"station_longitude": {
+						"_text": "33.30027554245612"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.6858500000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "325.16"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "1008"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "64.8"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "26.586"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "3.23297"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "40.38"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "4.28512"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "3.2222299999999997"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "46"
+					},
+					"pollutant_value": {
+						"_text": "0.50556"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "48"
+					},
+					"pollutant_value": {
+						"_text": "54667.39"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "49"
+					},
+					"pollutant_value": {
+						"_text": "203807.62199999997"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "127.44060000000002"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "213.012"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "2.09"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "0.6609100000000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "15"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "347.62"
+					},
+					"date_time": {
+						"_text": "2018-09-16 06:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paphos - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Πάφος - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "34.772166887756256"
+					},
+					"station_longitude": {
+						"_text": "32.418082019018584"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "1"
+					},
+					"pollutant_value": {
+						"_text": "3.5361179000000003"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "11"
+					},
+					"pollutant_value": {
+						"_text": "299.88"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "13"
+					},
+					"pollutant_value": {
+						"_text": "1004.5"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "14"
+					},
+					"pollutant_value": {
+						"_text": "64.3"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "15"
+					},
+					"pollutant_value": {
+						"_text": "24.7"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "2"
+					},
+					"pollutant_value": {
+						"_text": "10.9888459"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "25"
+					},
+					"pollutant_value": {
+						"_text": "26.4"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "26"
+					},
+					"pollutant_value": {
+						"_text": "15.34"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "3"
+					},
+					"pollutant_value": {
+						"_text": "16.4137313"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "4"
+					},
+					"pollutant_value": {
+						"_text": "1.2891582999999998"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "5"
+					},
+					"pollutant_value": {
+						"_text": "89.73310500000001"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "6"
+					},
+					"pollutant_value": {
+						"_text": "365.94996"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				},
+				{
+					"station_code": {
+						"_text": "16"
+					},
+					"pollutant_code": {
+						"_text": "9"
+					},
+					"pollutant_value": {
+						"_text": "1.48"
+					},
+					"date_time": {
+						"_text": "2018-09-16 07:00:00"
+					},
+					"station_name_en": {
+						"_text": "Paralimni - Traffic Station"
+					},
+					"station_name_gr": {
+						"_text": "Παραλίμνι - Κυκλοφοριακός Σταθμός"
+					},
+					"station_type_en": {
+						"_text": "Traffic"
+					},
+					"station_type_gr": {
+						"_text": "Κυκλοφοριακός"
+					},
+					"station_latitude": {
+						"_text": "35.04569276191925"
+					},
+					"station_longitude": {
+						"_text": "33.977734884655774"
+					}
+				}
+			]
+		},
+		"pollutants": {
+			"pollutant": [
+				{
+					"id": {
+						"_text": "1"
+					},
+					"code": {
+						"_text": "NO"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Nitrogen Oxide"
+					},
+					"name_gr": {
+						"_text": "Μονοξείδιο Αζώτου"
+					}
+				},
+				{
+					"id": {
+						"_text": "2"
+					},
+					"code": {
+						"_text": "NO2"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Nitrogen Dioxide"
+					},
+					"name_gr": {
+						"_text": "Διοξείδιο Αζώτου"
+					}
+				},
+				{
+					"id": {
+						"_text": "3"
+					},
+					"code": {
+						"_text": "NOx"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Nitrogen Oxides"
+					},
+					"name_gr": {
+						"_text": "Οξείδια του Αζώτου"
+					}
+				},
+				{
+					"id": {
+						"_text": "4"
+					},
+					"code": {
+						"_text": "SO2"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Sulfur Dioxide"
+					},
+					"name_gr": {
+						"_text": "Διοξείδιο Θείου"
+					}
+				},
+				{
+					"id": {
+						"_text": "5"
+					},
+					"code": {
+						"_text": "O3"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Ozone"
+					},
+					"name_gr": {
+						"_text": "Όζον"
+					}
+				},
+				{
+					"id": {
+						"_text": "6"
+					},
+					"code": {
+						"_text": "CO"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Carbon Monoxide"
+					},
+					"name_gr": {
+						"_text": "Μονοξείδιο 'Ανθρακα"
+					}
+				},
+				{
+					"id": {
+						"_text": "9"
+					},
+					"code": {
+						"_text": "WS"
+					},
+					"uom_en": {
+						"_text": "m/s"
+					},
+					"name_en": {
+						"_text": "Wind Speed"
+					},
+					"name_gr": {
+						"_text": "Ταχύτητα Ανέμου"
+					}
+				},
+				{
+					"id": {
+						"_text": "11"
+					},
+					"code": {
+						"_text": "WD"
+					},
+					"uom_en": {
+						"_text": "°"
+					},
+					"name_en": {
+						"_text": "Wind Direction"
+					},
+					"name_gr": {
+						"_text": "Κατεύθυνση Ανέμου"
+					}
+				},
+				{
+					"id": {
+						"_text": "13"
+					},
+					"code": {
+						"_text": "BP"
+					},
+					"uom_en": {
+						"_text": "mbar"
+					},
+					"name_en": {
+						"_text": "Barometric Pressure"
+					},
+					"name_gr": {
+						"_text": "Ατμοσφαιρική Πίεση"
+					}
+				},
+				{
+					"id": {
+						"_text": "14"
+					},
+					"code": {
+						"_text": "RH"
+					},
+					"uom_en": {
+						"_text": "%"
+					},
+					"name_en": {
+						"_text": "Relative Humidity"
+					},
+					"name_gr": {
+						"_text": "Σχετική Υγρασία"
+					}
+				},
+				{
+					"id": {
+						"_text": "15"
+					},
+					"code": {
+						"_text": "AT"
+					},
+					"uom_en": {
+						"_text": "°C"
+					},
+					"name_en": {
+						"_text": "Temperature"
+					},
+					"name_gr": {
+						"_text": "Θερμοκρασία"
+					}
+				},
+				{
+					"id": {
+						"_text": "18"
+					},
+					"code": {
+						"_text": "SR"
+					},
+					"uom_en": {
+						"_text": "W/m²"
+					},
+					"name_en": {
+						"_text": "Solar Radiation"
+					},
+					"name_gr": {
+						"_text": "Ηλιακή Ακτινοβολία"
+					}
+				},
+				{
+					"id": {
+						"_text": "19"
+					},
+					"code": {
+						"_text": "UVA"
+					},
+					"uom_en": {
+						"_text": "W/m²"
+					},
+					"name_en": {
+						"_text": "Ultraviolet Radiation A"
+					},
+					"name_gr": {
+						"_text": "Υπεριώδης Ακτινοβολία Α"
+					}
+				},
+				{
+					"id": {
+						"_text": "20"
+					},
+					"code": {
+						"_text": "UVB"
+					},
+					"uom_en": {
+						"_text": "W/m²"
+					},
+					"name_en": {
+						"_text": "Ultraviolet Radiation B"
+					},
+					"name_gr": {
+						"_text": "Υπεριώδης Ακτινοβολία Β"
+					}
+				},
+				{
+					"id": {
+						"_text": "21"
+					},
+					"code": {
+						"_text": "UVE"
+					},
+					"uom_en": {
+						"_text": "W/m²"
+					},
+					"name_en": {
+						"_text": "Ultraviolet Radiation E"
+					},
+					"name_gr": {
+						"_text": "Υπεριώδης Ακτινοβολία Ε"
+					}
+				},
+				{
+					"id": {
+						"_text": "25"
+					},
+					"code": {
+						"_text": "PM10"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Particulate Matter 10 μm"
+					},
+					"name_gr": {
+						"_text": "Σωματίδια 10 μm"
+					}
+				},
+				{
+					"id": {
+						"_text": "26"
+					},
+					"code": {
+						"_text": "PM25"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Particulate Matter 2.5 μm"
+					},
+					"name_gr": {
+						"_text": "Σωματίδια 2.5 μm"
+					}
+				},
+				{
+					"id": {
+						"_text": "45"
+					},
+					"code": {
+						"_text": "BEN"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Benzene"
+					},
+					"name_gr": {
+						"_text": "Βενζόλιο"
+					}
+				},
+				{
+					"id": {
+						"_text": "46"
+					},
+					"code": {
+						"_text": "TOL"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Toluene"
+					},
+					"name_gr": {
+						"_text": "Τολουόλιο"
+					}
+				},
+				{
+					"id": {
+						"_text": "47"
+					},
+					"code": {
+						"_text": "ETHBEN"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Ethyl Benzene"
+					},
+					"name_gr": {
+						"_text": "Βενζόλιο Εθελυστέρα"
+					}
+				},
+				{
+					"id": {
+						"_text": "48"
+					},
+					"code": {
+						"_text": "MPXYL"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "M+P Xylene"
+					},
+					"name_gr": {
+						"_text": "M+P Ξυλόλιο"
+					}
+				},
+				{
+					"id": {
+						"_text": "49"
+					},
+					"code": {
+						"_text": "OXYL"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "O-Xylene"
+					},
+					"name_gr": {
+						"_text": "Ξυλόλιο"
+					}
+				},
+				{
+					"id": {
+						"_text": "225"
+					},
+					"code": {
+						"_text": "PM10-24AVG"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Particulate Matter10 um 24hr Average"
+					},
+					"name_gr": {
+						"_text": "Σωματίδια 10 μm 24ωρος μέσος όρος"
+					}
+				},
+				{
+					"id": {
+						"_text": "226"
+					},
+					"code": {
+						"_text": "PM25-24AVG"
+					},
+					"uom_en": {
+						"_text": "μg/m³"
+					},
+					"name_en": {
+						"_text": "Particulate Matter 2.5 um 24hr Average"
+					},
+					"name_gr": {
+						"_text": "Σωματίδια 2.5 μm 24ωρος μέσος όρος"
+					}
+				}
+			]
+		}
+	}
+}
